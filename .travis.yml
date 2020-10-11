@@ -5,7 +5,7 @@ branches:
     
 notifications:
   email:
-    recipients:
+    recipients:  
       - redvladimirogaston@gmail.com
       - vladimirogaston@gmail.com
       
