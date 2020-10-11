@@ -4,6 +4,7 @@ branches:
     - develop
     
 notifications:
+  slack: testrepositoryespacio:bF7xSMuaQ5SHThb6KryKczeA
   email:
     recipients:  
       - redvladimirogaston@gmail.com
