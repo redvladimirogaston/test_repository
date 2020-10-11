@@ -7,7 +7,8 @@ notifications:
   email:
     recipients:
       - redvladimirogaston@gmail.com
-
+      - vladimirogaston@gmail.com
+      
 script:
   - mvn verify
   - mvn org.jacoco:jacoco-maven-plugin:prepare-agent install
