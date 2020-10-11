@@ -1,0 +1,13 @@
+lenguage: java
+branches:
+  only:
+    - develop
+    
+notifications:
+  email:
+    recipients:
+      - redvladimirogaston@gmail.com
+
+script:
+  - mvn verify
+  - mvn org.jacoco:jacoco-maven-plugin:prepare-agent install
