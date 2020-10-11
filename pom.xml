@@ -8,25 +8,6 @@
 	<name>Agenda App</name>
 	<description>Aplicacion desktop</description>
 
-	<developers>
-		<developer>
-			<name>Pablo Abregu</name>
-			<roles>
-				<role>business analist</role>
-				<role>developer</role>
-			</roles>
-			<email>student@theirmail.com</email>
-		</developer>
-		<developer>
-			<name>Vladimiro Gaston D'Achary</name>
-			<roles>
-				<role>architect</role>
-				<role>developer</role>
-			</roles>
-			<email>vladimirogaston@gmail.com</email>
-		</developer>
-	</developers>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<mainClass>AgendaApp.Main</mainClass>
@@ -109,42 +90,6 @@
 			<groupId>commons-configuration</groupId>
 			<artifactId>commons-configuration</artifactId>
 			<version>1.10</version>
-		</dependency>
-		<!-- BEANS VALIDATION -->
-		<dependency>
-			<groupId>javax.validation</groupId>
-			<artifactId>validation-api</artifactId>
-			<version>2.0.1.Final</version>
-		</dependency>
-		<dependency>
-			<groupId>org.hibernate.validator</groupId>
-			<artifactId>hibernate-validator</artifactId>
-			<version>6.0.2.Final</version>
-		</dependency>
-		<dependency>
-			<groupId>org.hibernate.validator</groupId>
-			<artifactId>hibernate-validator-annotation-processor</artifactId>
-			<version>6.0.2.Final</version>
-		</dependency>
-		<dependency>
-			<groupId>javax.el</groupId>
-			<artifactId>javax.el-api</artifactId>
-			<version>3.0.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.glassfish.web</groupId>
-			<artifactId>javax.el</artifactId>
-			<version>2.2.6</version>
-		</dependency>
-		<dependency>
-			<groupId>jakarta.xml.bind</groupId>
-			<artifactId>jakarta.xml.bind-api</artifactId>
-			<version>2.3.2</version>
-		</dependency>
-		<dependency>
-			<groupId>org.glassfish.jaxb</groupId>
-			<artifactId>jaxb-runtime</artifactId>
-			<version>2.3.2</version>
 		</dependency>
 		<!-- SWING LOOK AND FEEL -->
 		<dependency>
