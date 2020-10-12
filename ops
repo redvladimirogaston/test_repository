@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"41d35a293e3c457318c4e4e6527dd84e3769bad3"},"timestamp":1602505927,"title":"issue#15","message":"[inputs] name: 'johndoe', nationality: 'Argentinian'.\n[trigger] save action.\n[output-requested] clear view, close view, update customers list with the new customer.\n[output-responsed] system crash and close ruptly.","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"id":"41d35a293e3c457318c4e4e6527dd84e3769bad3"},"timestamp":1602505984,"added":["S1---high","R1---is-replicable"],"removed":null}]}
