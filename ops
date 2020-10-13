@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"41d35a293e3c457318c4e4e6527dd84e3769bad3"},"timestamp":1602603985,"title":"issue#78","message":"El boton de cancelar no funciona","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"id":"41d35a293e3c457318c4e4e6527dd84e3769bad3"},"timestamp":1602604010,"added":["S1---high"],"removed":null}]}
